@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="VTV + HD">
+    <display-name lang="es">VTV + HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/425.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <programme start="20220523190000 -0300" stop="20220523210000 -0300" channel="VTV + HD">
+    <title lang="es">City Torque vs. Plaza Colonia, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220523210000 -0300" stop="20220523211500 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Liga uruguaya de básquet. Bigua vs. Trouville, Semifinales, Juego 3</title>
+    <desc lang="es">La previa de la liga uruguaya de básquet y se jugará una rueda en formato todos contra todos para ir los primeros seis equipos a la Liguilla y los últimos seis a la Reclasificación.(n)</desc>
+  </programme>
+  <programme start="20220523211500 -0300" stop="20220523233000 -0300" channel="VTV + HD">
+    <title lang="es">Liga uruguaya de básquet. Bigua vs. Trouville, Semifinales, Juego 3</title>
+  </programme>
+</tv>
