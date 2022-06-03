@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="VTV + HD">
+    <display-name lang="es">VTV + HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/425.png" />
+    <url>http://www.tccvivo.com.uy.E</url>
+  </channel>
+  <programme start="20220603140000 -0300" stop="20220603160000 -0300" channel="VTV + HD">
+    <title lang="es">Cerro Largo vs. Liverpool, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220603160000 -0300" stop="20220603180000 -0300" channel="VTV + HD">
+    <title lang="es">Liga uruguaya de básquet. Peñarol vs. Bigua, Finales, Juego 2</title>
+  </programme>
+  <programme start="20220603180000 -0300" stop="20220603190000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220603190000 -0300" stop="20220603191500 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Campeonato uruguayo. City Torque vs. River Plate, Fecha 15</title>
+    <desc lang="es">Viví la previa de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220603191500 -0300" stop="20220603211500 -0300" channel="VTV + HD">
+    <title lang="es">City Torque vs. River Plate, Fecha 15. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220603211500 -0300" stop="20220603221500 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Liga uruguaya de básquet. Bigua vs. Peñarol, Finales, Juego 3</title>
+    <desc lang="es">La previa de la liga uruguaya de básquet y se jugará una rueda en formato todos contra todos para ir los primeros seis equipos a la Liguilla y los últimos seis a la Reclasificación.(n)</desc>
+  </programme>
+  <programme start="20220603221500 -0300" stop="20220604000000 -0300" channel="VTV + HD">
+    <title lang="es">Liga uruguaya de básquet. Bigua vs. Peñarol, Finales, Juego 3</title>
+  </programme>
+  <programme start="20220604000000 -0300" stop="20220604010000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión Básquet</title>
+    <desc lang="es">Disfrutá de la mejor cobertura del basquetbol, el deporte que reúne montones de apasionados, con toda la información de la disciplina.(n)</desc>
+  </programme>
+  <programme start="20220604010000 -0300" stop="20220604020000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220604020000 -0300" stop="20220604040000 -0300" channel="VTV + HD">
+    <title lang="es">Liga uruguaya de básquet. Bigua vs. Peñarol, Finales, Juego 3</title>
+  </programme>
+  <programme start="20220604040000 -0300" stop="20220604050000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión Básquet</title>
+    <desc lang="es">Disfrutá de la mejor cobertura del basquetbol, el deporte que reúne montones de apasionados, con toda la información de la disciplina.(n)</desc>
+  </programme>
+  <programme start="20220604050000 -0300" stop="20220604070000 -0300" channel="VTV + HD">
+    <title lang="es">City Torque vs. River Plate, Fecha 15. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220604070000 -0300" stop="20220604080000 -0300" channel="VTV + HD">
+    <title lang="es">Especial - Finales uruguayos</title>
+  </programme>
+  <programme start="20220604080000 -0300" stop="20220604090000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220604090000 -0300" stop="20220604094500 -0300" channel="VTV + HD">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220604094500 -0300" stop="20220604100000 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Segunda División. Uruguay Mveo. vs. Miramar, Fecha 7</title>
+    <desc lang="es">Previa del Campeonato Uruguayo de Segunda División Profesional de 2022, es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220604100000 -0300" stop="20220604120000 -0300" channel="VTV + HD">
+    <title lang="es">Segunda División. Uruguay Mveo. vs. Miramar, Fecha 7</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220604120000 -0300" stop="20220604140000 -0300" channel="VTV + HD">
+    <title lang="es">Liga uruguaya de básquet. Bigua vs. Peñarol, Finales, Juego 3</title>
+  </programme>
+  <programme start="20220604140000 -0300" stop="20220604150000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión Básquet</title>
+    <desc lang="es">Disfrutá de la mejor cobertura del basquetbol, el deporte que reúne montones de apasionados, con toda la información de la disciplina.(n)</desc>
+  </programme>
+  <programme start="20220604150000 -0300" stop="20220604160000 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Campeonato uruguayo. Peñarol vs. Cerro Largo, Fecha 15</title>
+    <desc lang="es">Viví la previa de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220604160000 -0300" stop="20220604181500 -0300" channel="VTV + HD">
+    <title lang="es">Peñarol vs. Cerro Largo, Fecha 15. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220604181500 -0300" stop="20220604183000 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Campeonato uruguayo. Cerrito vs. Plaza Colonia, Fecha 15</title>
+    <desc lang="es">Viví la previa de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220604183000 -0300" stop="20220604203000 -0300" channel="VTV + HD">
+    <title lang="es">Cerrito vs. Plaza Colonia, Fecha 15. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220604203000 -0300" stop="20220604213000 -0300" channel="VTV + HD">
+    <title lang="es">TCR Sudamérica</title>
+    <desc lang="es">Disfrute del campeonato de automovilismo disputado en Sudamérica bajo la homologación TCR.(n)</desc>
+  </programme>
+  <programme start="20220604213000 -0300" stop="20220604233000 -0300" channel="VTV + HD">
+    <title lang="es">Dep. Maldonado vs. Albion FC, Fecha 15. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220604233000 -0300" stop="20220605013000 -0300" channel="VTV + HD">
+    <title lang="es">Copa Nacional de Clubes. Barracas vs. Porongos, Fecha 1</title>
+    <desc lang="es">La Copa Nacional de Clubes es el torneo más importante del fútbol del interior uruguayo a nivel de clubes.(n)</desc>
+  </programme>
+  <programme start="20220605013000 -0300" stop="20220605020000 -0300" channel="VTV + HD">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220605020000 -0300" stop="20220605040000 -0300" channel="VTV + HD">
+    <title lang="es">Segunda División. Uruguay Mveo. vs. Miramar, Fecha 7</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220605040000 -0300" stop="20220605060000 -0300" channel="VTV + HD">
+    <title lang="es">Cerrito vs. Plaza Colonia, Fecha 15. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220605060000 -0300" stop="20220605070000 -0300" channel="VTV + HD">
+    <title lang="es">TCR Sudamérica</title>
+    <desc lang="es">Disfrute del campeonato de automovilismo disputado en Sudamérica bajo la homologación TCR.(n)</desc>
+  </programme>
+  <programme start="20220605070000 -0300" stop="20220605091500 -0300" channel="VTV + HD">
+    <title lang="es">Peñarol vs. Cerro Largo, Fecha 15. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220605091500 -0300" stop="20220605093000 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Segunda División. Progreso vs. La Luz, Fecha 7</title>
+    <desc lang="es">Previa del Campeonato Uruguayo de Segunda División Profesional de 2022, es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220605093000 -0300" stop="20220605114500 -0300" channel="VTV + HD">
+    <title lang="es">Segunda División. Progreso vs. La Luz, Fecha 7</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220605114500 -0300" stop="20220605120000 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Campeonato uruguayo. Rentistas vs. Def. Sporting, Fecha 15</title>
+    <desc lang="es">Viví la previa de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220605120000 -0300" stop="20220605140000 -0300" channel="VTV + HD">
+    <title lang="es">Rentistas vs. Def. Sporting, Fecha 15. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220605140000 -0300" stop="20220605150000 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Campeonato uruguayo. Danubio vs. Nacional, Fecha 15</title>
+    <desc lang="es">Viví la previa de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220605150000 -0300" stop="20220605170000 -0300" channel="VTV + HD">
+    <title lang="es">Danubio vs. Nacional, Fecha 15. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220605170000 -0300" stop="20220605190000 -0300" channel="VTV + HD">
+    <title lang="es">Liverpool vs. Fénix, Fecha 15. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220605190000 -0300" stop="20220605194500 -0300" channel="VTV + HD">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220605194500 -0300" stop="20220605200000 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Segunda División. Racing vs. Cerro, Fecha 7</title>
+    <desc lang="es">Previa del Campeonato Uruguayo de Segunda División Profesional de 2022, es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220605200000 -0300" stop="20220605220000 -0300" channel="VTV + HD">
+    <title lang="es">Segunda División. Racing vs. Cerro, Fecha 7</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220605220000 -0300" stop="20220605230000 -0300" channel="VTV + HD">
+    <title lang="es">Post - Segunda División. Racing vs. Cerro, Fecha 7</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220605230000 -0300" stop="20220606010000 -0300" channel="VTV + HD">
+    <title lang="es">Copa Nacional de Clubes. Fecha 1</title>
+    <desc lang="es">La Copa Nacional de Clubes es el torneo más importante del fútbol del interior uruguayo a nivel de clubes.(n)</desc>
+  </programme>
+  <programme start="20220606010000 -0300" stop="20220606013000 -0300" channel="VTV + HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220606013000 -0300" stop="20220606033000 -0300" channel="VTV + HD">
+    <title lang="es">Segunda División</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220606033000 -0300" stop="20220606153000 -0300" channel="VTV + HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220606153000 -0300" stop="20220607033000 -0300" channel="VTV + HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220607033000 -0300" stop="20220607153000 -0300" channel="VTV + HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220607153000 -0300" stop="20220607160000 -0300" channel="VTV + HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220607160000 -0300" stop="20220607180000 -0300" channel="VTV + HD">
+    <title lang="es">Liga uruguaya de básquet</title>
+  </programme>
+  <programme start="20220607180000 -0300" stop="20220607200000 -0300" channel="VTV + HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220607200000 -0300" stop="20220607210000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220607210000 -0300" stop="20220607211500 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Liga uruguaya de básquet</title>
+    <desc lang="es">La previa de la liga uruguaya de básquet y se jugará una rueda en formato todos contra todos para ir los primeros seis equipos a la Liguilla y los últimos seis a la Reclasificación.(n)</desc>
+  </programme>
+  <programme start="20220607211500 -0300" stop="20220607233000 -0300" channel="VTV + HD">
+    <title lang="es">Liga uruguaya de básquet</title>
+  </programme>
+  <programme start="20220607233000 -0300" stop="20220608003000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220608003000 -0300" stop="20220608083000 -0300" channel="VTV + HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220608083000 -0300" stop="20220608093000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220608093000 -0300" stop="20220608120000 -0300" channel="VTV + HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220608120000 -0300" stop="20220608140000 -0300" channel="VTV + HD">
+    <title lang="es">Liga uruguaya de básquet</title>
+  </programme>
+  <programme start="20220608140000 -0300" stop="20220608200000 -0300" channel="VTV + HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220608200000 -0300" stop="20220608210000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220608210000 -0300" stop="20220609020000 -0300" channel="VTV + HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220609020000 -0300" stop="20220609040000 -0300" channel="VTV + HD">
+    <title lang="es">Segunda División</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220609040000 -0300" stop="20220609090000 -0300" channel="VTV + HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220609090000 -0300" stop="20220609100000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220609100000 -0300" stop="20220609200000 -0300" channel="VTV + HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220609200000 -0300" stop="20220609210000 -0300" channel="VTV + HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220609210000 -0300" stop="20220609211500 -0300" channel="VTV + HD">
+    <title lang="es">Previa - Liga uruguaya de básquet</title>
+    <desc lang="es">La previa de la liga uruguaya de básquet y se jugará una rueda en formato todos contra todos para ir los primeros seis equipos a la Liguilla y los últimos seis a la Reclasificación.(n)</desc>
+  </programme>
+  <programme start="20220609211500 -0300" stop="20220609233000 -0300" channel="VTV + HD">
+    <title lang="es">Liga uruguaya de básquet</title>
+  </programme>
+</tv>
